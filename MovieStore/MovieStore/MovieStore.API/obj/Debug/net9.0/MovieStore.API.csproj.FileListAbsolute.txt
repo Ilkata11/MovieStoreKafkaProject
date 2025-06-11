@@ -1,0 +1,6 @@
+C:\Users\Owner\MovieStore\MovieStore.API\obj\Debug\net9.0\MovieStore.API.csproj.AssemblyReference.cache
+C:\Users\Owner\MovieStore\MovieStore.API\obj\Debug\net9.0\MovieStore.API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\MovieStore\MovieStore.API\obj\Debug\net9.0\MovieStore.API.AssemblyInfoInputs.cache
+C:\Users\Owner\MovieStore\MovieStore.API\obj\Debug\net9.0\MovieStore.API.AssemblyInfo.cs
+C:\Users\Owner\MovieStore\MovieStore.API\obj\Debug\net9.0\MovieStore.API.csproj.CoreCompileInputs.cache
+C:\Users\Owner\MovieStore\MovieStore.API\obj\Debug\net9.0\MovieStore.API.MvcApplicationPartsAssemblyInfo.cache

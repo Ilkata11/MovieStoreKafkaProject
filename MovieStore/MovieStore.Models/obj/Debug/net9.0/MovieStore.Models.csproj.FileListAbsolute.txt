@@ -1,0 +1,11 @@
+C:\Users\Owner\MovieStore\MovieStore.Models\bin\Debug\net9.0\MovieStore.Models.deps.json
+C:\Users\Owner\MovieStore\MovieStore.Models\bin\Debug\net9.0\MovieStore.Models.dll
+C:\Users\Owner\MovieStore\MovieStore.Models\bin\Debug\net9.0\MovieStore.Models.pdb
+C:\Users\Owner\MovieStore\MovieStore.Models\obj\Debug\net9.0\MovieStore.Models.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\MovieStore\MovieStore.Models\obj\Debug\net9.0\MovieStore.Models.AssemblyInfoInputs.cache
+C:\Users\Owner\MovieStore\MovieStore.Models\obj\Debug\net9.0\MovieStore.Models.AssemblyInfo.cs
+C:\Users\Owner\MovieStore\MovieStore.Models\obj\Debug\net9.0\MovieStore.Models.csproj.CoreCompileInputs.cache
+C:\Users\Owner\MovieStore\MovieStore.Models\obj\Debug\net9.0\MovieStore.Models.dll
+C:\Users\Owner\MovieStore\MovieStore.Models\obj\Debug\net9.0\refint\MovieStore.Models.dll
+C:\Users\Owner\MovieStore\MovieStore.Models\obj\Debug\net9.0\MovieStore.Models.pdb
+C:\Users\Owner\MovieStore\MovieStore.Models\obj\Debug\net9.0\ref\MovieStore.Models.dll

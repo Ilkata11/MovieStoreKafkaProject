@@ -1,0 +1,5 @@
+C:\Users\Owner\MovieStore\MovieStore.External\obj\Debug\net9.0\MovieStore.External.csproj.AssemblyReference.cache
+C:\Users\Owner\MovieStore\MovieStore.External\obj\Debug\net9.0\MovieStore.External.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\MovieStore\MovieStore.External\obj\Debug\net9.0\MovieStore.External.AssemblyInfoInputs.cache
+C:\Users\Owner\MovieStore\MovieStore.External\obj\Debug\net9.0\MovieStore.External.AssemblyInfo.cs
+C:\Users\Owner\MovieStore\MovieStore.External\obj\Debug\net9.0\MovieStore.External.csproj.CoreCompileInputs.cache

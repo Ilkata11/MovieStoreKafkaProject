@@ -1,0 +1,15 @@
+C:\Users\Owner\MovieStore\MovieStore.DL\bin\Debug\net9.0\MovieStore.DL.deps.json
+C:\Users\Owner\MovieStore\MovieStore.DL\bin\Debug\net9.0\MovieStore.DL.dll
+C:\Users\Owner\MovieStore\MovieStore.DL\bin\Debug\net9.0\MovieStore.DL.pdb
+C:\Users\Owner\MovieStore\MovieStore.DL\bin\Debug\net9.0\MovieStore.Models.dll
+C:\Users\Owner\MovieStore\MovieStore.DL\bin\Debug\net9.0\MovieStore.Models.pdb
+C:\Users\Owner\MovieStore\MovieStore.DL\obj\Debug\net9.0\MovieStore.DL.csproj.AssemblyReference.cache
+C:\Users\Owner\MovieStore\MovieStore.DL\obj\Debug\net9.0\MovieStore.DL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Owner\MovieStore\MovieStore.DL\obj\Debug\net9.0\MovieStore.DL.AssemblyInfoInputs.cache
+C:\Users\Owner\MovieStore\MovieStore.DL\obj\Debug\net9.0\MovieStore.DL.AssemblyInfo.cs
+C:\Users\Owner\MovieStore\MovieStore.DL\obj\Debug\net9.0\MovieStore.DL.csproj.CoreCompileInputs.cache
+C:\Users\Owner\MovieStore\MovieStore.DL\obj\Debug\net9.0\MovieSto.54BE3797.Up2Date
+C:\Users\Owner\MovieStore\MovieStore.DL\obj\Debug\net9.0\MovieStore.DL.dll
+C:\Users\Owner\MovieStore\MovieStore.DL\obj\Debug\net9.0\refint\MovieStore.DL.dll
+C:\Users\Owner\MovieStore\MovieStore.DL\obj\Debug\net9.0\MovieStore.DL.pdb
+C:\Users\Owner\MovieStore\MovieStore.DL\obj\Debug\net9.0\ref\MovieStore.DL.dll
