@@ -1,5 +1,0 @@
-C:\Users\Owner\MovieStore\MovieStore.Kafka\obj\Debug\net9.0\MovieStore.Kafka.csproj.AssemblyReference.cache
-C:\Users\Owner\MovieStore\MovieStore.Kafka\obj\Debug\net9.0\MovieStore.Kafka.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Owner\MovieStore\MovieStore.Kafka\obj\Debug\net9.0\MovieStore.Kafka.AssemblyInfoInputs.cache
-C:\Users\Owner\MovieStore\MovieStore.Kafka\obj\Debug\net9.0\MovieStore.Kafka.AssemblyInfo.cs
-C:\Users\Owner\MovieStore\MovieStore.Kafka\obj\Debug\net9.0\MovieStore.Kafka.csproj.CoreCompileInputs.cache
